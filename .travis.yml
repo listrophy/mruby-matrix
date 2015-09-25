@@ -1,3 +1,2 @@
 script:
-- git clone --depth 1 "https://github.com/mruby/mruby.git" mruby
-- cd mruby && env MRUBY_CONFIG="$(pwd)/../.travis_config.rb" ./minirake all test
+- rake test
