@@ -1,3 +1,7 @@
+Original source for matrix.rb, test_matrix.rb, and test_vector.rb were licensed under the Ruby License, found at https://github.com/ruby/ruby/blob/trunk/COPYING
+
+Modifications are released under the following license:
+
 Copyright 2015 Bendyworks, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
