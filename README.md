@@ -1,4 +1,4 @@
-# mruby-matrix
+# mruby-matrix ![travis status](https://travis-ci.org/listrophy/mruby-matrix.svg)
 
 Matrix and vector library ported from MRI Ruby.
 
