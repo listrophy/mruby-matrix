@@ -1,5 +1,9 @@
 # mruby-matrix ![travis status](https://travis-ci.org/listrophy/mruby-matrix.svg)
 
+# STOP: UNMAINTAINED
+
+**UNMAINTAINED**: The author has no interest in continuing development on any mruby gems until a reasonable Code of Conduct (defined here as "sufficiently similar to the [Contributor Covenant](http://contributor-covenant.org/version/1/4/code_of_conduct.txt)") is applied to the mruby project. If you would like to see improvements in `matrix`, you may fork it under the terms of the LICENSE.
+
 Matrix and vector library ported from MRI Ruby.
 
 ## Differences from MRI `matrix` library
